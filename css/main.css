@@ -942,7 +942,7 @@ body {
   }
 }
 
-/* Hamburger menu */
+/* Hamburger Menu */
 
 .hamburger {
   cursor: pointer;
@@ -961,8 +961,8 @@ body {
   width: 24px;
   height: 2px;
   background: #000;
-  /*border-radius: 3px;*/
-  /*transition: all 0.25s;*/
+  transform: rotate(0);
+  transition: all 0.5s;
 }
 
 .hamburger-middle {
